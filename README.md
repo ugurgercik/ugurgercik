@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ugurgercik
-- 👀 I’m interested in backend develop
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail adress: ugurgercik96@gmail.com
+- Hi, I’m @ugurgercik
+- I’m interested in backend develop
+- I’m currently learning Java
+- How to reach me mail adress: ugurgercik96@gmail.com
 
 <!---
 ugurgercik/ugurgercik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
